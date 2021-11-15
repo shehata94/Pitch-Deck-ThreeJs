@@ -1,4 +1,7 @@
-# Three.js Journey
+# Pitch Deck is built with ThreeJs
+
+The project is for Elite Portal StartUp to give a glimpse for investors about what they do and what they need.
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
