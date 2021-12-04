@@ -1,4 +1,4 @@
-# Pitch Deck is built with ThreeJs
+# Pitch Deck was built with ThreeJs
 
 The project is for Elite Portal StartUp to give a glimpse for investors about what they do and what they need.
 
